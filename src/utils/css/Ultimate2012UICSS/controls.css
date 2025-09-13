@@ -1,0 +1,53 @@
+
+button{
+  border: 0;
+  border-radius: 0;
+  outline: 0;
+  width: auto;
+  height:auto;
+  padding: 1%;
+  margin: 1%;
+ transition: all 1s ease-in-out;
+ 
+
+}
+button:hover{
+  cursor: pointer;
+  border: 1px solid var(--anti-flash-white);
+  box-shadow: 0 0 1px var(--anti-flash-white);
+}
+
+select{
+  border: none;
+  border-radius: 0;
+  width: auto;
+  height:auto;
+  padding: 0.5%;
+  margin: 1%;
+  transition: all 1s ease-in-out;
+  box-shadow: 0px 0px 1px 1px var(--anti-flash-white);
+}
+
+select>option{
+  border: none;
+  border-radius: 0;
+  width: auto;
+  height:auto;
+  padding: 0.5%;
+  margin: 1%;
+  transition: all 1s ease-in-out;
+}
+select:hover{
+  cursor: pointer;
+  border: 1px solid var(--anti-flash-white);
+  box-shadow: 0 0 1px var(--anti-flash-white);
+}
+
+input{
+    width: 50%;
+    border: 0;
+    padding: 0;
+    height: 5%;
+    background: none;
+    border-radius: 0;
+}

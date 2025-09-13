@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'roboto_ui_ux_h1';
+    src: url('../../../assets/fuentes/Roboto/static/Roboto-Bold.ttf');
+    font-weight: bold;
+    font-style: bold;
+}
+@font-face {
+    font-family: 'roboto_ui_ux_defaults';
+    src: url('../../../assets/fuentes/Roboto/static/Roboto-Medium.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family: 'roboto_ui_ux_p';
+    src: url('../../../assets/fuentes/Roboto/static/Roboto-Regular.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+
+h1{
+   font-family: 'roboto_ui_ux_h1';
+   font-weight:bold;
+   font-style: bold;
+}
+h2, h3, h4, h5, h6{
+    font-family: 'roboto_ui_ux_defaults';
+   font-weight:normal;
+   font-style:normal;
+}
+
+p,label{
+   font-family: 'roboto_ui_ux_p',sans-serif;
+   font-weight:bolder;
+   font-style:initial;
+   margin: 1%;
+}
+.title{
+    font-size: xxx-large;
+}
+
+

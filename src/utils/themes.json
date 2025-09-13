@@ -1,0 +1,28 @@
+[
+{
+    "theme":"axi_reg",
+    "inter_face":"Axiforma Regular"
+},
+{
+    "theme":"axi_med",
+    "inter_face":"Axiforma Medium"
+},
+{
+    "theme":"carib",
+    "inter_face":"Axiforma SemiBold"
+},
+{
+    "theme":"chelsea",
+    "inter_face":"chelsea-blue"
+    
+},
+{
+    "theme":"banana",
+    "inter_face":"super-banana"
+},
+{
+    "theme":"pistachio",
+    "inter_face":"pistachio"
+}
+
+]

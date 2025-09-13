@@ -1,0 +1,90 @@
+/*fondos de configuracion de interfaz de usuario*/
+@import url('./colors.css');
+@import url('./controls.css');
+@import url('./fonts.css');
+@import url('./buttons.css');
+@import url('./inputs.css');
+@import url('./select.css');
+@import url('./section.css');
+@import url('./forms.css');
+@import url('./divs.css');
+@import url('./span.css');
+@import url('./cards.css');
+@import url('./borders.css');
+
+body{
+padding: 0;
+margin: 0;
+}
+main{
+width:100% ;
+height: 100vh;
+padding:0;
+overflow: auto;
+display: flex;
+flex-direction: column;
+}
+
+.config_body{
+transition: all 0.50s ease;
+}
+/*Axiforma Regular*/
+.axi_reg_body {
+   background-color: var(--bangladesh-green);
+   color: var(--bangladesh-green-text);
+}
+/*Axiforma Medium*/
+
+.axi_med_body {
+   background-color: var(--back_green_dark);
+   color: var(--back_green_dark-text);
+}
+
+/*caribean green*/
+
+.carib_body {
+   background-color: var(--caribbean-green);
+   color: var(--caribbean-green-text);
+}
+
+/*Chelsea Blue*/
+.chelsea_body {
+   background-color: var(--chelsea-blue);
+   color: var(--chelsea-blue-text);
+}
+.chelsea_altern{
+background-color: var(--light-blue);
+color: var(--light-blue-text);
+}
+.chelsea_altern_2{
+background-color: var(--chelsea-blue-text);
+color: var(--chelsea-blue);
+}
+.chelsea_success{
+    background-color: var(--mountain-meadow);
+    color: var(--mountain-meadow-text);
+}
+.chelsea_error{
+     background-color: var(--light-red);
+    color: var(--light-red-text);
+}
+
+/*super banana*/
+.banana_body {
+   background-color: var(--super-banana);
+   color: var(--super-banana-text);
+}
+
+/*Pistachio*/
+.pistachio_body {
+   background-color: var(--color-pistachio);
+   color: var(--color-pistachio-text);
+}
+
+
+
+
+
+
+
+

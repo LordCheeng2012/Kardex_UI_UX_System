@@ -1,0 +1,8 @@
+span{
+  margin: 0;
+  padding: 0;
+}
+.chelsea_span{
+     color: var(--chelsea-blue);
+   border: 1px solid var(--chelsea-blue);
+}

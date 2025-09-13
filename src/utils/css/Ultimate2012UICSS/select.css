@@ -1,0 +1,66 @@
+.axi_reg_select {
+    background-color: var(--bangladesh-green);
+    color: var(--bangladesh-green-text);
+    border: 1px solid var(--mountain-meadow);
+    transition: border 0.3s;
+}
+.axi_reg_select:focus {
+    border-color: var(--color-mint);
+    outline: none;
+}
+
+/* Select Axiforma Medium */
+.axi_med_select {
+    background-color: var(--back_green_dark);
+    color: var(--back_green_dark-text);
+    border: 1px solid var(--caribbean-green);
+    transition: border 0.3s;
+}
+.axi_med_select:focus {
+    border-color: var(--anti-flash-white);
+    outline: none;
+}
+
+
+.carib_select {
+    background-color: var(--caribbean-green);
+    color: var(--caribbean-green-text);
+    border: 1px solid var(--color-mint);
+    transition: border 0.3s;
+}
+.carib_select:focus {
+    border-color: var(--color-mint-text);
+    outline: none;
+}
+
+
+.chelsea_select {
+    background-color: var(--chelsea-blue);
+    color: var(--chelsea-blue-text);
+    border: 1px solid var(--light-blue);
+    transition: border 0.3s;
+}
+.chelsea_select:focus {
+    border-color: var(--light-blue-text);
+    outline: none;
+}
+.banana_select {
+    background-color: var(--super-banana);
+    color: var(--super-banana-text);
+    border: 1px solid var(--anti-flash-white);
+    transition: border 0.3s;
+}
+.banana_select:focus {
+    border-color: var(--yellow-text);
+    outline: none;
+}
+.pistachio_select {
+    background-color: var(--color-pistachio);
+    color: var(--color-pistachios);
+    border: 1px solid var(--anti-flash-white);
+    transition: border 0.3s;
+}
+.pistachio_select:focus {
+    border-color: var(--yellow-text);
+    outline: none;
+}

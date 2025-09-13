@@ -1,0 +1,48 @@
+div{
+height: auto;
+width: auto;
+}
+.chelsea_content{
+background-color: var(--light-blue);
+color: var(--light-blue-text);
+}
+.axi_reg_content{
+ background-color: var(--bangladesh-green-text);
+ color: var(--bangladesh-green);
+}
+
+/*Axiforma Medium*/
+
+.axi_med_content {
+   background-color: var(--back_green_dark);
+   color: var(--back_green_dark-text);
+}
+
+/*caribean green*/
+
+.carib_content {
+   background-color: var(--caribbean-green);
+   color: var(--caribbean-green-text);
+}
+
+
+
+/*super banana*/
+.banana_content {
+   background-color: var(--super-banana);
+   color: var(--super-banana-text);
+}
+
+/*Pistachio*/
+.pistachio_content {
+   background-color: var(--color-pistachio);
+   color: var(--color-pistachio-text);
+}
+
+
+
+
+
+
+
+

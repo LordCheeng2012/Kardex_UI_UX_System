@@ -1,0 +1,77 @@
+input{
+height: 30px;
+ font-size: large;
+width: auto;
+margin: 1%;
+}
+
+
+/* inputs Axiforma Regular */
+.axi_reg_inputs {
+    background-color: var(--color-pistachio);
+    color: var(--back_green_dark);
+    border: 1px solid var(--mountain-meadow);
+    transition: border 0.3s;
+}
+.axi_reg_inputs:focus {
+    border-color: var(--color-mint-text);
+    outline: none;
+}
+
+
+/* inputs Axiforma Medium */
+.axi_med_inputs {
+    background-color: var(--anti-flash-white);
+    color: var(--back_green_dark);
+    border: 1px solid var(--caribbean-green);
+    transition: border 0.3s;
+}
+.axi_med_inputs:focus {
+    border-color: var(--anti-flash-white);
+    outline: none;
+}
+
+
+.carib_inputs {
+    background-color: var(--anti-flash-white);
+    color: var(--back_green_dark);
+    border: 1px solid var(--color-mint);
+    transition: border 0.3s;
+}
+.carib_inputs:focus {
+    border-color: var(--color-mint-text);
+    outline: none;
+}
+
+.chelsea_inputs {
+    background-color:var(--light-blue-transparent);
+    color: var(--color-pistachio-text);
+    transition: border 0.3s;
+     border-bottom: 1px solid var(--light-blue-transparent);
+}
+.chelsea_inputs:focus {
+    background-color: var(--light-blue-transparent);
+    border-color: var(--chelsea-blue);
+    outline: none;
+     color: var(--chelsea-blue);
+}
+.banana_inputs {
+    background-color: var(--anti-flash-white);
+    color: var(--color-pistachio-text);
+    border: 1px solid var(--color-pistachio);
+    transition: border 0.3s;
+}
+.banana_inputs:focus {
+    border-color: var(--anti-flash-white);
+    outline: none;
+}
+.pistachio_inputs {
+    background-color: var(--anti-flash-white);
+    color: var(--color-pistachio-text);
+    border: 1px solid var(--color-pistachio);
+    transition: border 0.3s;
+}
+.pistachio_inputs:focus {
+    border-color: var(--anti-flash-white);
+    outline: none;
+}
